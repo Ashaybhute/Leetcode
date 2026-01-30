@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Ashaybhute/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -12,6 +13,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashaybhute/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
@@ -20,5 +22,18 @@
 ## Shortest Path
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashaybhute/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## String
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
