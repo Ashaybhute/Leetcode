@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Ashaybhute/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sorting
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
