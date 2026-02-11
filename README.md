@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Ashaybhute/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -44,4 +45,8 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
