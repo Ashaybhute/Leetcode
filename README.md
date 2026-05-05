@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Ashaybhute/Leetcode/tree/master/0061-rotate-list) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ashaybhute/Leetcode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ashaybhute/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
