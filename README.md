@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Ashaybhute/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Ashaybhute/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1861-rotating-the-box](https://github.com/Ashaybhute/Leetcode/tree/master/1861-rotating-the-box) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ashaybhute/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Sorting
@@ -52,10 +53,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Ashaybhute/Leetcode/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/Ashaybhute/Leetcode/tree/master/1861-rotating-the-box) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ashaybhute/Leetcode/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/Ashaybhute/Leetcode/tree/master/1861-rotating-the-box) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ashaybhute/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
 |  |
