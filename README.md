@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Ashaybhute/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1861-rotating-the-box](https://github.com/Ashaybhute/Leetcode/tree/master/1861-rotating-the-box) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashaybhute/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ashaybhute/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Sorting
@@ -48,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashaybhute/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ashaybhute/Leetcode/tree/master/0061-rotate-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashaybhute/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
