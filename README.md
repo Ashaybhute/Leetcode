@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ashaybhute/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Ashaybhute/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashaybhute/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
