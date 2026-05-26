@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ashaybhute/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0001-two-sum](https://github.com/Ashaybhute/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ashaybhute/Leetcode/tree/master/0217-contains-duplicate) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashaybhute/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ashaybhute/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
