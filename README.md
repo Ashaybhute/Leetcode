@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashaybhute/Leetcode/tree/master/0020-valid-parentheses) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashaybhute/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ashaybhute/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashaybhute/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashaybhute/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashaybhute/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
